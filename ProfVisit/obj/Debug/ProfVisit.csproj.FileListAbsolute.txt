@@ -1,0 +1,89 @@
+C:\Users\fox2f\OneDrive\Рабочий стол\Дейкстра\Курсовая Мирослав\Курсовая Мирослав\bin\Debug\Курсовая Мирослав.exe.config
+C:\Users\fox2f\OneDrive\Рабочий стол\Дейкстра\Курсовая Мирослав\Курсовая Мирослав\bin\Debug\Курсовая Мирослав.exe
+C:\Users\fox2f\OneDrive\Рабочий стол\Дейкстра\Курсовая Мирослав\Курсовая Мирослав\bin\Debug\Курсовая Мирослав.pdb
+C:\Users\fox2f\OneDrive\Рабочий стол\Дейкстра\Курсовая Мирослав\Курсовая Мирослав\obj\Debug\Курсовая Мирослав.csproj.AssemblyReference.cache
+C:\Users\fox2f\OneDrive\Рабочий стол\Дейкстра\Курсовая Мирослав\Курсовая Мирослав\obj\Debug\Курсовая Мирослав.csproj.SuggestedBindingRedirects.cache
+C:\Users\fox2f\OneDrive\Рабочий стол\Дейкстра\Курсовая Мирослав\Курсовая Мирослав\obj\Debug\Курсовая_Мирослав.Properties.Resources.resources
+C:\Users\fox2f\OneDrive\Рабочий стол\Дейкстра\Курсовая Мирослав\Курсовая Мирослав\obj\Debug\Курсовая Мирослав.csproj.GenerateResource.cache
+C:\Users\fox2f\OneDrive\Рабочий стол\Дейкстра\Курсовая Мирослав\Курсовая Мирослав\obj\Debug\Курсовая Мирослав.csproj.CoreCompileInputs.cache
+C:\Users\fox2f\OneDrive\Рабочий стол\Дейкстра\Курсовая Мирослав\Курсовая Мирослав\obj\Debug\Курсовая Мирослав.exe
+C:\Users\fox2f\OneDrive\Рабочий стол\Дейкстра\Курсовая Мирослав\Курсовая Мирослав\obj\Debug\Курсовая Мирослав.pdb
+C:\Users\fox2f\OneDrive\Рабочий стол\Дейкстра\Курсовая Мирослав\Курсовая Мирослав\obj\Debug\Курсовая_Мирослав.DoReport.resources
+C:\Users\fox2f\OneDrive\Рабочий стол\Дейкстра\Курсовая Мирослав\Курсовая Мирослав\obj\Debug\Курсовая_Мирослав.Start.resources
+C:\Users\fox2f\OneDrive\Рабочий стол\Дейкстра\Курсовая Мирослав\Курсовая Мирослав\obj\Debug\Курсовая_Мирослав.Alalyze.resources
+C:\Users\fox2f\OneDrive\Рабочий стол\Дейкстра\Курсовая Мирослав\ProfVisit\bin\Debug\Курсовая Мирослав.exe.config
+C:\Users\fox2f\OneDrive\Рабочий стол\Дейкстра\Курсовая Мирослав\ProfVisit\bin\Debug\Курсовая Мирослав.exe
+C:\Users\fox2f\OneDrive\Рабочий стол\Дейкстра\Курсовая Мирослав\ProfVisit\bin\Debug\Курсовая Мирослав.pdb
+C:\Users\fox2f\OneDrive\Рабочий стол\Дейкстра\Курсовая Мирослав\ProfVisit\obj\Debug\ProfVisit.csproj.AssemblyReference.cache
+C:\Users\fox2f\OneDrive\Рабочий стол\Дейкстра\Курсовая Мирослав\ProfVisit\obj\Debug\ProfVisit.csproj.SuggestedBindingRedirects.cache
+C:\Users\fox2f\OneDrive\Рабочий стол\Дейкстра\Курсовая Мирослав\ProfVisit\obj\Debug\Курсовая_Мирослав.Alalyze.resources
+C:\Users\fox2f\OneDrive\Рабочий стол\Дейкстра\Курсовая Мирослав\ProfVisit\obj\Debug\Курсовая_Мирослав.DoReport.resources
+C:\Users\fox2f\OneDrive\Рабочий стол\Дейкстра\Курсовая Мирослав\ProfVisit\obj\Debug\Курсовая_Мирослав.Start.resources
+C:\Users\fox2f\OneDrive\Рабочий стол\Дейкстра\Курсовая Мирослав\ProfVisit\obj\Debug\Курсовая_Мирослав.Properties.Resources.resources
+C:\Users\fox2f\OneDrive\Рабочий стол\Дейкстра\Курсовая Мирослав\ProfVisit\obj\Debug\ProfVisit.csproj.GenerateResource.cache
+C:\Users\fox2f\OneDrive\Рабочий стол\Дейкстра\Курсовая Мирослав\ProfVisit\obj\Debug\ProfVisit.csproj.CoreCompileInputs.cache
+C:\Users\fox2f\OneDrive\Рабочий стол\Дейкстра\Курсовая Мирослав\ProfVisit\obj\Debug\Курсовая Мирослав.exe
+C:\Users\fox2f\OneDrive\Рабочий стол\Дейкстра\Курсовая Мирослав\ProfVisit\obj\Debug\Курсовая Мирослав.pdb
+C:\Users\fox2f\OneDrive\Рабочий стол\Дейкстра\ProfVisit\ProfVisit\bin\Debug\Курсовая Мирослав.exe.config
+C:\Users\fox2f\OneDrive\Рабочий стол\Дейкстра\ProfVisit\ProfVisit\bin\Debug\Курсовая Мирослав.exe
+C:\Users\fox2f\OneDrive\Рабочий стол\Дейкстра\ProfVisit\ProfVisit\bin\Debug\Курсовая Мирослав.pdb
+C:\Users\fox2f\OneDrive\Рабочий стол\Дейкстра\ProfVisit\ProfVisit\obj\Debug\ProfVisit.csproj.AssemblyReference.cache
+C:\Users\fox2f\OneDrive\Рабочий стол\Дейкстра\ProfVisit\ProfVisit\obj\Debug\ProfVisit.csproj.SuggestedBindingRedirects.cache
+C:\Users\fox2f\OneDrive\Рабочий стол\Дейкстра\ProfVisit\ProfVisit\obj\Debug\Курсовая_Мирослав.Alalyze.resources
+C:\Users\fox2f\OneDrive\Рабочий стол\Дейкстра\ProfVisit\ProfVisit\obj\Debug\Курсовая_Мирослав.DoReport.resources
+C:\Users\fox2f\OneDrive\Рабочий стол\Дейкстра\ProfVisit\ProfVisit\obj\Debug\Курсовая_Мирослав.Start.resources
+C:\Users\fox2f\OneDrive\Рабочий стол\Дейкстра\ProfVisit\ProfVisit\obj\Debug\Курсовая_Мирослав.Properties.Resources.resources
+C:\Users\fox2f\OneDrive\Рабочий стол\Дейкстра\ProfVisit\ProfVisit\obj\Debug\ProfVisit.csproj.GenerateResource.cache
+C:\Users\fox2f\OneDrive\Рабочий стол\Дейкстра\ProfVisit\ProfVisit\obj\Debug\ProfVisit.csproj.CoreCompileInputs.cache
+C:\Users\fox2f\OneDrive\Рабочий стол\Дейкстра\ProfVisit\ProfVisit\obj\Debug\Курсовая Мирослав.exe
+C:\Users\fox2f\OneDrive\Рабочий стол\Дейкстра\ProfVisit\ProfVisit\obj\Debug\Курсовая Мирослав.pdb
+C:\Users\мирка\Desktop\ProfVisit\ProfVisit\bin\Debug\Курсовая Мирослав.exe.config
+C:\Users\мирка\Desktop\ProfVisit\ProfVisit\bin\Debug\Курсовая Мирослав.exe
+C:\Users\мирка\Desktop\ProfVisit\ProfVisit\bin\Debug\Курсовая Мирослав.pdb
+C:\Users\мирка\Desktop\ProfVisit\ProfVisit\obj\Debug\ProfVisit.csprojAssemblyReference.cache
+C:\Users\мирка\Desktop\ProfVisit\ProfVisit\obj\Debug\ProfilVisit.Alalyze.resources
+C:\Users\мирка\Desktop\ProfVisit\ProfVisit\obj\Debug\ProfilVisit.DoReport.resources
+C:\Users\мирка\Desktop\ProfVisit\ProfVisit\obj\Debug\ProfilVisit.Start.resources
+C:\Users\мирка\Desktop\ProfVisit\ProfVisit\obj\Debug\Курсовая_Мирослав.Properties.Resources.resources
+C:\Users\мирка\Desktop\ProfVisit\ProfVisit\obj\Debug\ProfVisit.csproj.GenerateResource.cache
+C:\Users\мирка\Desktop\ProfVisit\ProfVisit\obj\Debug\ProfVisit.csproj.CoreCompileInputs.cache
+C:\Users\мирка\Desktop\ProfVisit\ProfVisit\obj\Debug\Курсовая Мирослав.exe
+C:\Users\мирка\Desktop\ProfVisit\ProfVisit\obj\Debug\Курсовая Мирослав.pdb
+C:\Users\fox2f\OneDrive\Рабочий стол\ProfVisit\ProfVisit\obj\Debug\ProfVisit.csproj.AssemblyReference.cache
+C:\Users\fox2f\OneDrive\Рабочий стол\ProfVisit\ProfVisit\obj\Debug\ProfVisit.csproj.SuggestedBindingRedirects.cache
+C:\Users\fox2f\OneDrive\Рабочий стол\ProfVisit\ProfVisit\obj\Debug\ProfilVisit.Alalyze.resources
+C:\Users\fox2f\OneDrive\Рабочий стол\ProfVisit\ProfVisit\obj\Debug\ProfilVisit.DoReport.resources
+C:\Users\fox2f\OneDrive\Рабочий стол\ProfVisit\ProfVisit\obj\Debug\ProfilVisit.Start.resources
+C:\Users\fox2f\OneDrive\Рабочий стол\ProfVisit\ProfVisit\obj\Debug\Курсовая_Мирослав.Properties.Resources.resources
+C:\Users\fox2f\OneDrive\Рабочий стол\ProfVisit\ProfVisit\obj\Debug\ProfVisit.csproj.GenerateResource.cache
+C:\Users\fox2f\OneDrive\Рабочий стол\ProfVisit\ProfVisit\obj\Debug\ProfVisit.csproj.CoreCompileInputs.cache
+C:\Users\fox2f\OneDrive\Рабочий стол\ProfVisit\ProfVisit\bin\Debug\Курсовая Мирослав.exe.config
+C:\Users\fox2f\OneDrive\Рабочий стол\ProfVisit\ProfVisit\bin\Debug\Курсовая Мирослав.exe
+C:\Users\fox2f\OneDrive\Рабочий стол\ProfVisit\ProfVisit\bin\Debug\Курсовая Мирослав.pdb
+C:\Users\fox2f\OneDrive\Рабочий стол\ProfVisit\ProfVisit\obj\Debug\Курсовая Мирослав.exe
+C:\Users\fox2f\OneDrive\Рабочий стол\ProfVisit\ProfVisit\obj\Debug\Курсовая Мирослав.pdb
+C:\Users\мирка\Desktop\ProfVisit (6)\ProfVisit\ProfVisit\bin\Debug\Курсовая Мирослав.exe.config
+C:\Users\мирка\Desktop\ProfVisit (6)\ProfVisit\ProfVisit\bin\Debug\Курсовая Мирослав.exe
+C:\Users\мирка\Desktop\ProfVisit (6)\ProfVisit\ProfVisit\bin\Debug\Курсовая Мирослав.pdb
+C:\Users\мирка\Desktop\ProfVisit (6)\ProfVisit\ProfVisit\obj\Debug\ProfVisit.csprojAssemblyReference.cache
+C:\Users\мирка\Desktop\ProfVisit (6)\ProfVisit\ProfVisit\obj\Debug\ProfilVisit.Alalyze.resources
+C:\Users\мирка\Desktop\ProfVisit (6)\ProfVisit\ProfVisit\obj\Debug\ProfilVisit.DoReport.resources
+C:\Users\мирка\Desktop\ProfVisit (6)\ProfVisit\ProfVisit\obj\Debug\ProfilVisit.Start.resources
+C:\Users\мирка\Desktop\ProfVisit (6)\ProfVisit\ProfVisit\obj\Debug\Курсовая_Мирослав.Properties.Resources.resources
+C:\Users\мирка\Desktop\ProfVisit (6)\ProfVisit\ProfVisit\obj\Debug\ProfVisit.csproj.GenerateResource.cache
+C:\Users\мирка\Desktop\ProfVisit (6)\ProfVisit\ProfVisit\obj\Debug\ProfVisit.csproj.CoreCompileInputs.cache
+C:\Users\мирка\Desktop\ProfVisit (6)\ProfVisit\ProfVisit\obj\Debug\Курсовая Мирослав.exe
+C:\Users\мирка\Desktop\ProfVisit (6)\ProfVisit\ProfVisit\obj\Debug\Курсовая Мирослав.pdb
+C:\Users\fox2f\OneDrive\Рабочий стол\ProfVisit\ProfVisit\ProfVisit\bin\Debug\Курсовая Мирослав.exe.config
+C:\Users\fox2f\OneDrive\Рабочий стол\ProfVisit\ProfVisit\ProfVisit\bin\Debug\Курсовая Мирослав.exe
+C:\Users\fox2f\OneDrive\Рабочий стол\ProfVisit\ProfVisit\ProfVisit\bin\Debug\Курсовая Мирослав.pdb
+C:\Users\fox2f\OneDrive\Рабочий стол\ProfVisit\ProfVisit\ProfVisit\obj\Debug\ProfVisit.csproj.AssemblyReference.cache
+C:\Users\fox2f\OneDrive\Рабочий стол\ProfVisit\ProfVisit\ProfVisit\obj\Debug\ProfVisit.csproj.SuggestedBindingRedirects.cache
+C:\Users\fox2f\OneDrive\Рабочий стол\ProfVisit\ProfVisit\ProfVisit\obj\Debug\ProfilVisit.Alalyze.resources
+C:\Users\fox2f\OneDrive\Рабочий стол\ProfVisit\ProfVisit\ProfVisit\obj\Debug\ProfilVisit.DoReport.resources
+C:\Users\fox2f\OneDrive\Рабочий стол\ProfVisit\ProfVisit\ProfVisit\obj\Debug\ProfilVisit.Start.resources
+C:\Users\fox2f\OneDrive\Рабочий стол\ProfVisit\ProfVisit\ProfVisit\obj\Debug\Курсовая_Мирослав.Properties.Resources.resources
+C:\Users\fox2f\OneDrive\Рабочий стол\ProfVisit\ProfVisit\ProfVisit\obj\Debug\ProfVisit.csproj.GenerateResource.cache
+C:\Users\fox2f\OneDrive\Рабочий стол\ProfVisit\ProfVisit\ProfVisit\obj\Debug\ProfVisit.csproj.CoreCompileInputs.cache
+C:\Users\fox2f\OneDrive\Рабочий стол\ProfVisit\ProfVisit\ProfVisit\obj\Debug\Курсовая Мирослав.exe
+C:\Users\fox2f\OneDrive\Рабочий стол\ProfVisit\ProfVisit\ProfVisit\obj\Debug\Курсовая Мирослав.pdb
